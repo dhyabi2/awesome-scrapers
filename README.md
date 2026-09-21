@@ -33,12 +33,12 @@ LLMs understand page structure, extract via natural language, and output LLM-rea
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Firecrawl](https://github.com/firecrawl/firecrawl) | 180k | TypeScript | Websites → LLM-ready markdown or structured data via API. |
-| [browser-use](https://github.com/browser-use/browser-use) | 115k | Python | AI agents that control a browser to complete tasks autonomously. |
-| [Crawl4AI](https://github.com/unclecode/crawl4ai) | 83k | Python | LLM-friendly web crawler with structured extraction. |
-| [Docling](https://github.com/docling-project/docling) | 66k | Python | IBM — parse PDFs, DOCX into AI-ready output. |
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | 183k | TypeScript | Websites → LLM-ready markdown or structured data via API. |
+| [browser-use](https://github.com/browser-use/browser-use) | 116k | Python | AI agents that control a browser to complete tasks autonomously. |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | 84k | Python | LLM-friendly web crawler with structured extraction. |
+| [Docling](https://github.com/docling-project/docling) | 67k | Python | IBM — parse PDFs, DOCX into AI-ready output. |
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 31k | Python | Graph pipelines + LLMs to extract data via plain English. |
-| [Stagehand](https://github.com/browserbase/stagehand) | 24k | TypeScript | Browser automation combining natural language with code precision. |
+| [Stagehand](https://github.com/browserbase/stagehand) | 25k | TypeScript | Browser automation combining natural language with code precision. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | 23k | Python | Browser workflows with computer vision + LLMs, no selectors needed. |
 | [Jina Reader](https://github.com/jina-ai/reader) | 12k | TypeScript | Any URL → LLM-friendly markdown with vision model support. |
 | [llm-scraper](https://github.com/mishushakov/llm-scraper) | 7k | TypeScript | Structured data from any webpage using LLMs with Zod schemas. |
@@ -52,10 +52,10 @@ The cat-and-mouse game of modern scraping.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Scrapling](https://github.com/D4Vinci/Scrapling) | 81k | Python | Adaptive scraping with built-in anti-detection and auto-matching. |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | 83k | Python | Adaptive scraping with built-in anti-detection and auto-matching. |
 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | 13k | Python | Browser automation with UC (Undetected Chrome) mode. |
 | [Camoufox](https://github.com/daijro/camoufox) | 12k | Python | Firefox-based browser automation project with fingerprint-management features. |
-| [curl_cffi](https://github.com/lexiforest/curl_cffi) | 6k | Python | HTTP client with browser TLS/JA3/HTTP2 fingerprint impersonation. |
+| [curl_cffi](https://github.com/lexiforest/curl_cffi) | 7k | Python | HTTP client with browser TLS/JA3/HTTP2 fingerprint impersonation. |
 | [Nodriver](https://github.com/ultrafunkamsterdam/nodriver) | 5k | Python | Successor to undetected-chromedriver — direct CDP, no WebDriver. |
 | [Botasaurus](https://github.com/omkarcloud/botasaurus) | 6k | Python | Scraping framework with anti-detection, parallelism, and caching. |
 | [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) | 5k | JavaScript | Undetected Playwright fork that passes bot detection. |
@@ -83,7 +83,7 @@ The foundation for dynamic/JS-heavy scraping.
 |------|-------|----------|-------------|
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k | JavaScript | Google's Chrome/Firefox control via DevTools Protocol. |
 | [Playwright](https://github.com/microsoft/playwright) | 96k | Multi | Cross-browser automation (Chromium, Firefox, WebKit) by Microsoft. |
-| [Selenium](https://github.com/SeleniumHQ/selenium) | 34k | Multi | The OG browser automation (W3C WebDriver standard). |
+| [Selenium](https://github.com/SeleniumHQ/selenium) | 35k | Multi | The OG browser automation (W3C WebDriver standard). |
 | [Crawlee](https://github.com/apify/crawlee) | 26k | TypeScript | Scraping/automation library with proxy rotation by Apify. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -122,7 +122,7 @@ The network layer — making requests that look human.
 |------|-------|----------|-------------|
 | [aiohttp](https://github.com/aio-libs/aiohttp) | 17k | Python | Async HTTP client/server for high-concurrency scraping. |
 | [httpx](https://github.com/encode/httpx) | 15k | Python | Async/sync HTTP client with HTTP/2 support. |
-| [curl_cffi](https://github.com/lexiforest/curl_cffi) | 6k | Python | HTTP client impersonating browser TLS fingerprints (also in Stealth). |
+| [curl_cffi](https://github.com/lexiforest/curl_cffi) | 7k | Python | HTTP client impersonating browser TLS fingerprints (also in Stealth). |
 | [got-scraping](https://github.com/apify/got-scraping) | 771 | Node.js | HTTP client with header/TLS mimicry by Apify. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
@@ -173,7 +173,7 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 191k | YouTube and 1000+ sites (fork of youtube-dl). |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 192k | YouTube and 1000+ sites (fork of youtube-dl). |
 | [lux](https://github.com/iawia002/lux) | 32k | Go video downloader — 40+ sites (formerly annie). |
 | [spotdl](https://github.com/spotDL/spotify-downloader) | 26k | Spotify tracks/playlists with metadata and album art. |
 | [gallery-dl](https://github.com/mikf/gallery-dl) | 20k | Image galleries from 100+ sites (Pixiv, Twitter, Reddit). |
@@ -184,7 +184,7 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Docling](https://github.com/docling-project/docling) | 66k | Python | IBM — PDFs, DOCX, PPTX into AI-ready output. |
+| [Docling](https://github.com/docling-project/docling) | 67k | Python | IBM — PDFs, DOCX, PPTX into AI-ready output. |
 | [Unstructured](https://github.com/Unstructured-IO/unstructured) | 15k | Python | ETL pipeline for documents → structured data for LLMs. |
 | [pdfplumber](https://github.com/jsvine/pdfplumber) | 11k | Python | Text, tables, and layout from PDFs with precision. |
 | [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | 11k | Python | Fast PDF/XPS/EPUB extraction and rendering. |
@@ -199,8 +199,8 @@ Pull clean text out of messy HTML — essential for LLM/RAG pipelines.
 
 | Tool | Stars | Language | Description |
 |------|-------|----------|-------------|
-| [Tesseract](https://github.com/tesseract-ocr/tesseract) | 76k | C++ | Google's OCR engine — 100+ languages. |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 89k | Python | Lightweight OCR — 100+ languages with LLM integration. |
+| [Tesseract](https://github.com/tesseract-ocr/tesseract) | 77k | C++ | Google's OCR engine — 100+ languages. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 90k | Python | Lightweight OCR — 100+ languages with LLM integration. |
 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | 30k | Python | Ready-to-use OCR — 80+ languages, PyTorch. |
 | [pytesseract](https://github.com/madmaze/pytesseract) | 6k | Python | Python wrapper for Tesseract. |
 
