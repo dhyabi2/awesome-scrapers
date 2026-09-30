@@ -72,7 +72,7 @@ Connect LLM agents (Claude, GPT, etc.) directly to scraping tools.
 | [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) | 7k | Web scraping and search in Claude/Cursor via Firecrawl API. |
 | [Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase) | 3k | Cloud browser control with Stagehand AI. |
 | [Bright Data MCP](https://github.com/brightdata/brightdata-mcp) | 3k | Web access with geo-unblocking and bot evasion. |
-| [Vend API Merchant (MCP)](https://extract.paypercall.dev/.well-known/x402) | - | 10 pay-per-call web-data tools (extract, search, link check, domain, geoip, nano account, youtube transcript, status, screenshot, plus relevance-ranked semantic search at `search.paypercall.dev/api/v1/neural-search`). No API key; x402 pay-per-call, settled in Nano (XNO). Remote, streaming HTTP. |
+| [Vend API Merchant (MCP)](https://extract.paypercall.dev/.well-known/x402) | - | 9 pay-per-call MCP tools (extract, web search, link check, URL status, domain, geoip, nano account, youtube transcript, service finder), plus relevance-ranked semantic search over HTTP at `search.paypercall.dev/api/v1/neural-search`. No API key; x402 pay-per-call, settled in Nano (XNO). Remote, streaming HTTP. |
 
 <p align="right">(<a href="#readme">⬆ back to top</a>)</p>
 
